@@ -2,16 +2,17 @@
 title: Hi, I'm Joe
 subtitle: I'm a Ph.D. candidate researching the evolution of fold and thrust belts using a combination of numerical models and fieldwork.
 description: A stunning personal blog Jekyll theme with an image-focused design.
-featured_image: /images/demo/demo-portrait.jpg
+featured_image: /images/Banners/Banner1.jpg
 ---
 
 ![](/images/demo/demo-landscape.jpg)
 
+I'm a PhD candidate at the University of Sydney looking to complete in 2023. My research looks at the dynamic evolution of fold-thrust belts, drawing from numerical models, fieldwork and microstructure. Beyond my musty office on campus you're likely to run into me on a run, in a climbing gym, or at the pub (I am a geologist after all!). 
+
 ## Education
 
-Currently undertaking a Doctorate of Philosophy (Science) at the University of Sydney
-
-University of Sydney BSc (Advanced) (Honours) First Class with a double major in Geology/Geophysics and Biology.
+* Currently undertaking a Doctorate of Philosophy (Science) at the University of Sydney
+* University of Sydney BSc (Advanced) (Honours) First Class with a double major in Geology/Geophysics and Biology.
 
 ## Experience
 
@@ -39,9 +40,3 @@ Guinea Fold and Thrust Belt. In The 1st AAPG/EAGE PNG Geosciences Conference, PN
 * The Earthbyte Prize 2018
 * Leo A Cotton Prize in Exploration Geophysics 2018
 * Deas Thompson Scholarship in Mineralogy 2018
-
-## Get Index
-
-Journal is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $49.
-
-<a href="https://jekyllthemes.io/theme/journal-personal-jekyll-theme" class="button button--large">Get This Theme</a>
