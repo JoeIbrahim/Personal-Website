@@ -1,7 +1,7 @@
-site: Journal Jekyll Theme
+site: Joe "Youseph" Ibrahim
 
-url: 
-baseurl: 
+url:  https://joeibrahim.github.io
+baseurl: `baseurl: /Personal-Website
 
 collections:
   pages:
