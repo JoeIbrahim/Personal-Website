@@ -1,7 +1,7 @@
 site: Joe "Youseph" Ibrahim
 
 url:  https://joeibrahim.github.io
-baseurl: Personal-Website
+baseurl: /Personal-Website
 
 collections:
   pages:
