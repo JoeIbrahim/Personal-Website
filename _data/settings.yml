@@ -10,10 +10,10 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Latest'
-      url: '/'
     - title: 'Projects'
-      url: '/projects/'
+      url: '/'
+    - title: 'Blog'
+      url: '/Blog/'
     - title: 'About'
       url: '/about'
     - title: 'Contact'
@@ -48,13 +48,13 @@ social_settings:
   deviantart_url: ''
   github_url: ''
   reddit_url: ''
-  flickr_url: ''
+  flickr_url: 'https://www.flickr.com/photos/186365909@N02/'
   etsy_url: ''
   kickstarter_url: ''
   soundcloud_url: ''
   spotify_url: ''
   bandcamp_url: ''
-  linkedin_url: ''
+  linkedin_url: 'https://www.linkedin.com/in/joeibrahimgeo/'
 
 color_settings:
   background_color: '#ffffff'
