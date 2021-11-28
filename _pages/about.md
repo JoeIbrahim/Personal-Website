@@ -1,11 +1,11 @@
 ---
 title: Hi, I'm Joe
 subtitle: I'm a Ph.D. candidate researching the evolution of fold and thrust belts using a combination of numerical models and fieldwork.
-description: A stunning personal blog Jekyll theme with an image-focused design.
+description:
 featured_image: /images/Banners/Banner1.jpg
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/About/20211031_125243.jpg)
 
 I'm a PhD candidate at the University of Sydney looking to complete in 2023. My research looks at the dynamic evolution of fold-thrust belts, drawing from numerical models, fieldwork and microstructure. Beyond my musty office on campus you're likely to run into me on a run, in a climbing gym, or at the pub (I am a geologist after all!). 
 
