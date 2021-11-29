@@ -33,6 +33,7 @@ As opposed to solely the ratio of competent to incompetent rocks controlling the
 
 ![](/images/Mechanical_Stratigraphy/Same_CI.png)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ca8T66kPxKI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Want to learn more? Check out my honours thesis!
 
